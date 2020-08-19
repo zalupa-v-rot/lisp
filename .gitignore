@@ -1,0 +1,14 @@
+*.o
+*.out
+ignore.*
+autom4te.cache
+INSTALL
+aclocal.m4
+compile
+configure
+depcomp
+install-sh
+missing
+test-driver
+Makefile.in
+ar-lib

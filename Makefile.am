@@ -1,0 +1,1 @@
+SUBDIRS = simplelib src test
